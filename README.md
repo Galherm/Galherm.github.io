@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Wellcome to my website!
 My name is Gal Hermelin, and I’m a Data Analyst.
 
